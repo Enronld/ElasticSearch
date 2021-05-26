@@ -73,7 +73,7 @@ ELK技术：elasticsearch+logstash+kibana
 
    ![1621246041104](https://raw.githubusercontent.com/Enronld/ElasticSearch/main/images/1621246041104.png)
 
-![1621246418609](C:\Users\a\AppData\Roaming\Typora\typora-user-images\1621246418609.png)
+![1621246418609](https://raw.githubusercontent.com/Enronld/ElasticSearch/main/images/1621246418609.png)
 
 4. 访问测试
 
